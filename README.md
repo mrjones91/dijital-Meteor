@@ -3,18 +3,18 @@ Template with for web projects in Meteor
 
 Packages:
 
-accounts-facebook
-accounts-google
-accounts-twitter
-accounts-ui
-email
-iron:router
-jazeee:spiderable-longer-timeout
-manuelschoebel:ms-seo
-meteor-platform
-meteorhacks:fast-render
-multiply:iron-router-progress
-
-meteorhacks:kadira
-kadira:debug
-meteortoys:allthings
+accounts-facebook <br/>
+accounts-google <br/>
+accounts-twitter <br/>
+accounts-ui <br/>
+email <br/>
+iron:router <br/>
+jazeee:spiderable-longer-timeout <br/>
+manuelschoebel:ms-seo <br/>
+meteor-platform <br/>
+meteorhacks:fast-render <br/>
+multiply:iron-router-progress <br/>
+<br/>
+meteorhacks:kadira <br/>
+kadira:debug <br/>
+meteortoys:allthings <br/>
