@@ -1,5 +1,6 @@
+##not up to date
 # dijital-Meteor
-List of packages for website projects in Meteor
+List of packages for website projects in Meteor (Version 1.2)
 
 Sample Projects coming soon
 
